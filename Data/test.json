@@ -1,0 +1,41 @@
+[
+  {
+    "id": 202301,
+    "chefPicture": "https://media.istockphoto.com/id/1409915253/photo/mature-man-holding-a-glass.jpg?s=2048x2048&w=is&k=20&c=A_hsH2WOjZ_IfNOWWXhDITX-fjYODuN2PAGIKJfPFz8=",
+    "chefName": "Chen Zhang",
+    "yearsOfExperience": "20",
+    "numberOfRecipes": "50",
+    "likes": "1200",
+    "description": "A classic Chinese soup made with mushrooms, tofu, bamboo shoots, and egg, in a savory and tangy broth.This spicy Sichuan dish features stir-fried chicken, peanuts, and vegetables in a sauce made from chili paste, vinegar, and soy sauce.",
+
+    "rating_1": "3",
+    "recipe_1": "Kung Pao Chicken",
+    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
+    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
+    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
+    "rating_2": "3",
+    "recipe_2": "Hot and Sour Soup",
+    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+
+      "eggs",
+      "chicken broth"
+    ],
+    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
+    "rating_3": "4",
+    "recipe_3": "Sichuan Beef Noodle Soup",
+    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
+    "ingredients_3": [
+      "beef shank",
+      "vegetables",
+      "dried shiitake mushrooms",
+      "Sichuan peppercorns",
+      "star anise",
+      "cinnamon"
+    ]
+  }
+]
