@@ -1,80 +1,41 @@
 [
   {
-
-    
     "id": "1",
     "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
-    "Likes": "1.5k",   
-
+    "Likes": "1.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-    
-    "rating_1": 1,    
-    "rating_2": 2,   
-    "rating_3": 3, 
-    
+
+    "rating_1": 1,
+    "rating_2": 2,
+    "rating_3": 3,
+
     "recipe_1": "Kung Pao Chicken",
     "recipe_2": "Hot and Sour Soup",
     "recipe_3": "Sichuan Beef Noodle Soup",
-    
+
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
     "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    
-    
+
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
     "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-   
-    
+
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [ "mushrooms","tofu","bamboo shoots", "eggs","chicken broth"  ],
-    "ingredients_3": ["beef shank","vegetables","cinnamon"  ],
-   
-   
-    "BuyOneGetOne":[
-    {
-    "Buy_One_1_footName":"food number 1",
-    "Buy_One_1_footImg":"img",
-    "Buy_One_1_footPara":"paragraph",
-
-    "Buy_One_2_footName":"food number 1",
-    "Buy_One_2_footImg":"img",
-    "Buy_One_2_footPara":"paragraph",
-
-    "Buy_One_3_footName":"food number 1",
-    "Buy_One_3_footImg":"img",
-    "Buy_One_3_footPara":"paragraph"}],
-
-   "onlinePaymentCashback ":[
-    {
-    "discount_Foot_1_discount":50,
-    "discount_Foot_1_Payment":50,
-    "discount_Foot_1_Name":50,
-    "discount_Foot__Img":"asdkf",
-
-
-
-    "discount_Foot_2_discount":50,
-    "discount_Foot_2_Payment":50,
-    "discount_Foot_2_Name":50,
-    "discount_Foot_2_Img":"asdkf",
-
-
-    "discount_Foot_3_discount":50,
-    "discount_Foot_3_Payment":50,
-    "discount_Foot_3_Name":50,
-    "discount_Foot_3_Img":"asdkf"}
-   ]
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
   },
-  
-  
-  
-
 
   {
     "id": "1",
@@ -82,39 +43,37 @@
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
-    "Likes": "1.5k",   
-
+    "Likes": "1.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-    
-    "rating_1": 1,    
-    "rating_2": 2,   
-    "rating_3": 3, 
-    
+
+    "rating_1": 1,
+    "rating_2": 2,
+    "rating_3": 3,
+
     "recipe_1": "Kung Pao Chicken",
     "recipe_2": "Hot and Sour Soup",
     "recipe_3": "Sichuan Beef Noodle Soup",
-    
+
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
     "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    
-    
+
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
     "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-   
-    
+
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [ "mushrooms","tofu","bamboo shoots", "eggs","chicken broth"  ],
-    "ingredients_3": ["beef shank","vegetables","cinnamon"  ]
-   
-   
-    
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
   },
-
-
 
   {
     "id": "1",
@@ -122,39 +81,37 @@
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
-    "Likes": "1.5k",   
-
+    "Likes": "1.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-    
-    "rating_1": 1,    
-    "rating_2": 2,   
-    "rating_3": 3, 
-    
+
+    "rating_1": 1,
+    "rating_2": 2,
+    "rating_3": 3,
+
     "recipe_1": "Kung Pao Chicken",
     "recipe_2": "Hot and Sour Soup",
     "recipe_3": "Sichuan Beef Noodle Soup",
-    
+
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
     "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    
-    
+
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
     "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-   
-    
+
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [ "mushrooms","tofu","bamboo shoots", "eggs","chicken broth"  ],
-    "ingredients_3": ["beef shank","vegetables","cinnamon"  ]
-   
-   
-    
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
   },
-
-
 
   {
     "id": "1",
@@ -162,37 +119,37 @@
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
-    "Likes": "1.5k",   
-
+    "Likes": "1.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-    
-    "rating_1": 1,    
-    "rating_2": 2,   
-    "rating_3": 3, 
-    
+
+    "rating_1": 1,
+    "rating_2": 2,
+    "rating_3": 3,
+
     "recipe_1": "Kung Pao Chicken",
     "recipe_2": "Hot and Sour Soup",
     "recipe_3": "Sichuan Beef Noodle Soup",
-    
+
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
     "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    
-    
+
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
     "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-   
-    
-    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [ "mushrooms","tofu","bamboo shoots", "eggs","chicken broth"  ],
-    "ingredients_3": ["beef shank","vegetables","cinnamon"  ] 
-   
-    
-  },
 
+    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
+  },
 
   {
     "id": "1",
@@ -200,38 +157,37 @@
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
-    "Likes": "1.5k",   
-
+    "Likes": "1.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-    
-    "rating_1": 1,    
-    "rating_2": 2,   
-    "rating_3": 3, 
-    
+
+    "rating_1": 1,
+    "rating_2": 2,
+    "rating_3": 3,
+
     "recipe_1": "Kung Pao Chicken",
     "recipe_2": "Hot and Sour Soup",
     "recipe_3": "Sichuan Beef Noodle Soup",
-    
+
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
     "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    
-    
+
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
     "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-   
-    
-    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [ "mushrooms","tofu","bamboo shoots", "eggs","chicken broth"  ],
-    "ingredients_3": ["beef shank","vegetables","cinnamon"  ]
-   
-   
-    
-  },
 
+    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
+  },
 
   {
     "id": "1",
@@ -239,47 +195,35 @@
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
-    "Likes": "1.5k",   
-
+    "Likes": "1.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-    
-    "rating_1": 1,    
-    "rating_2": 2,   
-    "rating_3": 3, 
-    
+
+    "rating_1": 1,
+    "rating_2": 2,
+    "rating_3": 3,
+
     "recipe_1": "Kung Pao Chicken",
     "recipe_2": "Hot and Sour Soup",
     "recipe_3": "Sichuan Beef Noodle Soup",
-    
+
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
     "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    
-    
+
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
     "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-   
-    
+
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [ "mushrooms","tofu","bamboo shoots", "eggs","chicken broth"  ],
-    "ingredients_3": ["beef shank","vegetables","cinnamon"  ]
-   
-   
-    
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
   }
-
-
-
-  
-
-
- 
-
-
-
-
-  
 ]
