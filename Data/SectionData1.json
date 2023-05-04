@@ -1,25 +1,29 @@
 [
   {
     "id": 1,
-    "discount_Foot_1_discount": 50,
-    "discount_Foot_1_Payment": 50,
-    "discount_Foot_1_Name": 50,
-    "discount_Foot__Img": "asdkf"
+    "discount_Foot_1_discount": 60,
+    "discount_Foot_1_Payment": "Bikas",
+    "discount_Foot_1_Name": "Kacchi Biryani",
+    "discount_Foot_Img": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
+    "discount_Foot_1_desciption": "Kacchi Biryani is one of Bangladeshi people’s most loved foods. It is so loved, it is served at most festivals and special occasions, such as weddings, picnics, etc. I love this dish."
   },
 
   {
     "id": 1,
-    "discount_Foot_1_discount": 50,
-    "discount_Foot_1_Payment": 50,
-    "discount_Foot_1_Name": 50,
-    "discount_Foot__Img": "asdkf"
+    "discount_Foot_1_discount": 60,
+    "discount_Foot_1_Payment": "nagad",
+    "discount_Foot_1_Name": "Vuna Khichuri/ Khichuri",
+    "discount_Foot__Img": "https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg.webp",
+    "discount_Foot_1_desciption": "  Khichuri is a dish made of rice and lentils (dal). Vuna Khichuri (roasted) is cooked with different ingredients and spices from normal Khichuri."
   },
+
 
   {
     "id": 1,
-    "discount_Foot_1_discount": 50,
-    "discount_Foot_1_Payment": 50,
-    "discount_Foot_1_Name": 50,
-    "discount_Foot__Img": "asdkf"
+    "discount_Foot_1_discount": 60,
+    "discount_Foot_1_Payment": "Rocket",
+    "discount_Foot_1_Name": "Morog Polao",
+    "discount_Foot__Img": "https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg.webp",
+    "discount_Foot_1_desciption": "Polao is a rice dish which involves cooking a stock, and adding spices. Other varieties of this delicious, mouth-watering food are Morog Polao or Chicken Polao, which is Polao served with chicken."
   }
 ]

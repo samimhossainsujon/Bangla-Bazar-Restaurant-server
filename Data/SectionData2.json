@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "Buy_One_1_footName": "food number 1",
-    "Buy_One_1_footImg": "img",
-    "Buy_One_1_footPara": "paragraph"
+    "Buy_One_1_footName": "Panta Ilish",
+    "Buy_One_1_footImg": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg.webp",
+    "Buy_One_1_footPara": "Panta Ilish is a traditional food that almost every Bangladeshi eats at the Pohela Boishakh Festival (the first day of Bangla year). It’s the most popular food in Bangladesh. We love this dish as it is a great symbol and celebration of our culture and tradition.It’s a platter of leftover rice soaked in water and served with fried hilsa, achar, and dal. People eat Panta Ilish in the morning of Pohela Boishakh and then take part in cultural programs. The flavorful, crispy, and delicious hilsa fish served with water-soaked cold rice and spicy bharta presents a combination of salty and chili tastes. You will love it after your first mouthful. Another fish, American shad, tastes like hilsa, so you can buy that and have yourself some Bengali pleasure."
   },
 
   {
     "id": 1,
-    "Buy_One_1_footName": "food number 1",
-    "Buy_One_1_footImg": "img",
-    "Buy_One_1_footPara": "paragraph"
+    "Buy_One_1_footName": "Grill Chicken With Naan Roti",
+    "Buy_One_1_footImg": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp",
+    "Buy_One_1_footPara": "https://www.chefspencil.com/wp-content/uploads/Screenshot-2021-05-24-at-19.15.48.jpg.webp"
   },
 
   {
     "id": 1,
-    "Buy_One_1_footName": "food number 1",
-    "Buy_One_1_footImg": "img",
-    "Buy_One_1_footPara": "paragraph"
+    "Buy_One_1_footName": "Haleem",
+    "Buy_One_1_footImg": "https://www.chefspencil.com/wp-content/uploads/Haleem-960x960.jpg.webp",
+    "Buy_One_1_footPara": "Haleem is an Arabic dish. It is a popular stew made with meat—usually beef or mutton—lentils, barley, and spices. It is sold on street stalls and in bazaars"
   }
 ]

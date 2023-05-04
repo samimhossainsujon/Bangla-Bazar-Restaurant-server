@@ -1,7 +1,116 @@
 [
   {
     "id": "1",
-    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg",
+    "Chef_Name": "Chef Ahmed Hossain",
+    "Years_of_experience": "20",
+    "Numbers_of_recipes": "50",
+    "Likes": "10.5k",
+
+    "View_Recipes_Button": "View Recipes Details",
+    "description": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010.In 2010 Ahmed joined with Ocean Paradise Hotel and Resort, Cox’s Bazar as pre-opening Executive Chef and Director Food and Beverage, on first August, and worked till February 2013. In 2013, Ahmed rejoined with Dhaka Regency Hotel and Resort, Dhaka, as Head of Food and Beverage Division, has been attempting to till date. Now Chef Ahmed is recognized as the top most popular chef in Bangladesh.",
+
+    "rating_1": 4,
+    "rating_2": 4.5,
+    "rating_3": 5,
+
+    "recipe_1": "Chana Daal Er Torkari",
+    "recipe_2": "Aloo Chorchori",
+    "recipe_3": "Bhetki Macher Paturi",
+
+    "image_1": "https://c.ndtvimg.com/2018-10/8c1r0eg8_chana-dal_625x300_11_October_18.jpg",
+    "image_2": "https://kitchenofdebjani.com/wp-content/uploads/2018/02/Sada-Aloo-Chorchori-luchi.jpg",
+    "image_3": "https://kitchenofdebjani.com/wp-content/uploads/2022/09/Bhetki-Macher-Paturi-recipe-debjanir-rannaghar-1024x1024.jpg",
+
+    "cookingMethod_1": "It is yet another protein rich lentil dish of Bengali cuisine made on special occasions like Durga Pooja, weddings etc. In this Bengali chana dal recipe, chana dal is first boiled with turmeric powder and then it is tempered with",
+    "cookingMethod_2": "I never thought of writing the recipe of Sada Aloo Chorchori. In fact, why should I. Ain't it something  Bongs know to make from the very beginning of the cooking journey? Is'nt the Sada Aloo Chorchori as simple as making Ommlette or boiling Egg. Isn't it the staple your or my mother used to make for our tiffin box to accompany with Luchi or Porota. Ain't Aloo Chorchori, one of the first dish you or I learned before living the house for a hostel or before joining the first job outside our own city.",
+    "cookingMethod_3": " Bhetki Macher Paturi; this is one of my favorite fish preparation. Fish Paturi is a signature Bengali fish dish where Bhetki Maach along with a paste of Mustard and Coconut wrapped in banana leaf. It is then steamed on a slow flame and the end result is melting in mouth Bhetki Macher Paturi.",
+
+    "ingredients_1": 
+    ["Chital Macher Muitha", "peanuts", "vegetables", "soy sauce", "sugar"],
+    
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
+  },
+
+  {
+    "id": "2",
+    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Fakruddin-famous-chefs-in-Bangladesh-1.jpg",
+    "Chef_Name": "Fakruddin",
+    "Years_of_experience": "30",
+    "Numbers_of_recipes": "25",
+    "Likes": "1.4k",
+
+    "View_Recipes_Button": "View Recipes Details",
+    "description": "Since 1966, Haji Fakruddin had challenged outrageous financial hardships since his move to Bangladesh. He amid a stretch to squeeze out a work, he was acquainted with Muslim Miah, a culinary specialist to the Nawabs of India.From Muslim Miah, Fakruddin figured out how to cook. It was short colleague which uncovered to Fakruddin his shrouded, characteristic style and outrageous enthusiasm for cooking. While working in the Viqarun Nisa, he earned a name for his pleasantness, mild-mannered and tender nature. Now he is among the top 10 chefs in Bangladesh.",
+
+    "rating_1": 3,
+    "rating_2": 4,
+    "rating_3": 5,
+
+    "recipe_1": "Doi Mach",
+    "recipe_2": "Chaler Payesh ",
+    "recipe_3": "Chirer Polao",
+
+    "image_1": "https://thumbs.dreamstime.com/b/bangladeshi-food-street-menu-vibrant-sharing-reseraunts-plates-163861909.jpg",
+    "image_2": "https://thumbs.dreamstime.com/b/brick-lane-food-29571602.jpg",
+    "image_3": "https://thumbs.dreamstime.com/b/assorted-indian-food-dark-wooden-background-dishes-cuisine-curry-butter-chicken-rice-lentils-paneer-samosa-naan-88512791.jpg",
+
+    "cookingMethod_1": "About Bengali Doi Maach Recipe: A thick and spicy fish curry. Bengali Doi Maach has marinated pieces of fish cooked in a yogurt based gravy. The curry is robust, slightly spicy and delicately sour with a balance of curd and spices. The fish is really tender and soft having absorbed the wonderful flavors of the gravy. It can be served with steamed rice for a complete meal.",
+    "cookingMethod_2": "Here are a few more Bengali recipes that you can try at home – Basanti Pulao, Tok Dal, Bengali Style Veg Pulao, Orange Kheer, Bengali Masoor Dal, Kosha Mangsho, Bengali Chicken Curry, Bengali Aloo Dum, and Bengali Chicken Rezala.",
+    "cookingMethod_3": "Assorted indian food on dark wooden background. Dishes of indian cuisine. Curry, butter chicken, rice, lentils, paneer, samosa, naan, chutney, spices. Space for text. Bowls and plates with indian food",
+
+    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
+    "ingredients_2": ["mushrooms", "tofu","bamboo shoots","eggs","chicken broth"  ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
+  },
+
+  {
+    "id": "3",
+    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+    "Chef_Name": "Asad Latif",
+    "Years_of_experience": "15",
+    "Numbers_of_recipes": "24",
+    "Likes": "1.3k",
+
+    "View_Recipes_Button": "View Recipes Details",
+    "description": "Siddiqua Kabir (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuringBangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
+
+    "rating_1": 3,
+    "rating_2": 4,
+    "rating_3": 4.5,
+    "recipe_1": "Kung Pao Chicken",
+    "recipe_2": "Hot and Sour Soup",
+    "recipe_3": "Sichuan Beef Noodle Soup",
+
+    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
+    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+
+    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
+    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
+    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
+
+    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
+    "ingredients_2": [
+      "mushrooms",
+      "tofu",
+      "bamboo shoots",
+      "eggs",
+      "chicken broth"
+    ],
+    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
+  },
+
+  {
+    "id": "1",
+    "Chef_Picture": "",
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
@@ -39,7 +148,7 @@
 
   {
     "id": "1",
-    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "Chef_Picture": "",
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
@@ -77,121 +186,7 @@
 
   {
     "id": "1",
-    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
-    "Chef_Name": "Mania Mia",
-    "Years_of_experience": "20",
-    "Numbers_of_recipes": "20",
-    "Likes": "1.5k",
-
-    "View_Recipes_Button": "View Recipes Details",
-    "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-
-    "rating_1": 1,
-    "rating_2": 2,
-    "rating_3": 3,
-
-    "recipe_1": "Kung Pao Chicken",
-    "recipe_2": "Hot and Sour Soup",
-    "recipe_3": "Sichuan Beef Noodle Soup",
-
-    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
-    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-
-    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
-    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
-    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-
-    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [
-      "mushrooms",
-      "tofu",
-      "bamboo shoots",
-      "eggs",
-      "chicken broth"
-    ],
-    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
-  },
-
-  {
-    "id": "1",
-    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
-    "Chef_Name": "Mania Mia",
-    "Years_of_experience": "20",
-    "Numbers_of_recipes": "20",
-    "Likes": "1.5k",
-
-    "View_Recipes_Button": "View Recipes Details",
-    "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-
-    "rating_1": 1,
-    "rating_2": 2,
-    "rating_3": 3,
-
-    "recipe_1": "Kung Pao Chicken",
-    "recipe_2": "Hot and Sour Soup",
-    "recipe_3": "Sichuan Beef Noodle Soup",
-
-    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
-    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-
-    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
-    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
-    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-
-    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [
-      "mushrooms",
-      "tofu",
-      "bamboo shoots",
-      "eggs",
-      "chicken broth"
-    ],
-    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
-  },
-
-  {
-    "id": "1",
-    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
-    "Chef_Name": "Mania Mia",
-    "Years_of_experience": "20",
-    "Numbers_of_recipes": "20",
-    "Likes": "1.5k",
-
-    "View_Recipes_Button": "View Recipes Details",
-    "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
-
-    "rating_1": 1,
-    "rating_2": 2,
-    "rating_3": 3,
-
-    "recipe_1": "Kung Pao Chicken",
-    "recipe_2": "Hot and Sour Soup",
-    "recipe_3": "Sichuan Beef Noodle Soup",
-
-    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
-    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-
-    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
-    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
-    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
-
-    "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
-    "ingredients_2": [
-      "mushrooms",
-      "tofu",
-      "bamboo shoots",
-      "eggs",
-      "chicken broth"
-    ],
-    "ingredients_3": ["beef shank", "vegetables", "cinnamon"]
-  },
-
-  {
-    "id": "1",
-    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "Chef_Picture": "",
     "Chef_Name": "Mania Mia",
     "Years_of_experience": "20",
     "Numbers_of_recipes": "20",
