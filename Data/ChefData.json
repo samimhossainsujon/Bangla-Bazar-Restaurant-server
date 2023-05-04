@@ -91,7 +91,7 @@
 
     "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
     "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "image_3": "https://previews.123rf.com/images/somegirl/somegirl2201/somegirl220100150/180513139-indian-ethnic-food-buffet-on-white-concrete-table-from-above.jpg",
 
     "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
     "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
@@ -109,31 +109,31 @@
   },
 
   {
-    "id": "1",
-    "Chef_Picture": "",
-    "Chef_Name": "Mania Mia",
-    "Years_of_experience": "20",
-    "Numbers_of_recipes": "20",
-    "Likes": "1.5k",
+    "id": "4",
+    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-kabir-famous-bangladeshi-chefs.jpg",
+    "Chef_Name": "Chef Kiran Jethwa",
+    "Years_of_experience": "24",
+    "Numbers_of_recipes": "25",
+    "Likes": "1.2k",
 
     "View_Recipes_Button": "View Recipes Details",
-    "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
+    "description": "Kiran Jethwa also known as “ The Fearless Chef” has travelled every part of the Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as assorted as it can be hazardous. Kiran Jethwa, is a worldwide “gastronaut” and has crossed the world looking for gutsy and cooking styles and societies.From racing with falcons in Mongolia to Remote Ocean jumping for fish in Mozambique, Jethwa has encountered the perils and excites that individuals day by day professionally for culinary field.",
 
-    "rating_1": 1,
-    "rating_2": 2,
-    "rating_3": 3,
+    "rating_1": 4,
+    "rating_2": 4.5,
+    "rating_3": 5,
 
-    "recipe_1": "Kung Pao Chicken",
-    "recipe_2": "Hot and Sour Soup",
-    "recipe_3": "Sichuan Beef Noodle Soup",
+    "recipe_1": "Prawn Fry",
+    "recipe_2": "Chitol Mach",
+    "recipe_3": "Patla Khichuri",
 
-    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
-    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "image_1": "https://3.bp.blogspot.com/-qkJKG0b_DHc/WG2nfTITIvI/AAAAAAAACPs/yCHxpk1R34w1lSBUYxuGqySkPT1BcEuLwCLcB/s1600/prawns%2Bfry%2Brecipe.JPG",
+    "image_2": "https://kitchenofdebjani.com/wp-content/uploads/2019/12/Chitol-Macher-Kaliya-300x300.jpg",
+    "image_3": "http://peekncookimages.azureedge.net/Index_photos/dimer_khichuri.jpg",
 
-    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
-    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
-    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
+    "cookingMethod_1": "Prawns Fry also known as prawns 65 is a spicy and a delicious recipe to start a non-veg lunch or dinner. Prawns are the delicacies of the sea world with amazing taste while having lower calories. Even though we can make lot of recipes with prawns like Prawns Ghee roast , Prawns pepper Fry , Prawns Roast the most easy recipe among them is this prawns fry recipe .This recipe is really quick and easy to make and it tastes absolutely delicious. This recipe has a crispy crunchy texture on the outside made with a flour mixture and the spices added to it makes your taste buds ask for more.",
+    "cookingMethod_2": "Here We are with the last post of the decade on Debjanir Rannaghar and this post for sure is special. For the first time, I have tried to put to the written recipe and video recipe together. I have chosen Chitol Macher Kaliya for this post and am thankful to Mehebub for all the support he has provided with the video. Hence, this post is about us, not me only!",
+    "cookingMethod_3": "This is absolute life saviour onepot meal by my Ma. I'm a true lover of any kind of Khichuri( it's Bengali khichuri not khichdi). So she knows my choice of favourite meal. Whenever she has not much time to prepare a good meal, makes this for me. She makes with an ease, no grinding, not much effort she does, just few handful of ingredients and 30 minutes only she takes to make it and serve",
 
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
     "ingredients_2": [
@@ -147,31 +147,31 @@
   },
 
   {
-    "id": "1",
-    "Chef_Picture": "",
-    "Chef_Name": "Mania Mia",
-    "Years_of_experience": "20",
-    "Numbers_of_recipes": "20",
-    "Likes": "1.5k",
+    "id": "5",
+    "Chef_Picture": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+    "Chef_Name": "Tony Culinary expert",
+    "Years_of_experience": "15",
+    "Numbers_of_recipes": "30",
+    "Likes": "5.5k",
 
     "View_Recipes_Button": "View Recipes Details",
-    "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
+    "description": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment.",
 
-    "rating_1": 1,
-    "rating_2": 2,
-    "rating_3": 3,
+    "rating_1": 4,
+    "rating_2": 4.5,
+    "rating_3": 5,
 
-    "recipe_1": "Kung Pao Chicken",
-    "recipe_2": "Hot and Sour Soup",
-    "recipe_3": "Sichuan Beef Noodle Soup",
+    "recipe_1": "Chicken Curry",
+    "recipe_2": "Beef Curry",
+    "recipe_3": "Mutton Curry",
 
-    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
-    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "image_1": "https://savvybites.co.uk/wp-content/uploads/2020/10/Coconut-Chicken-Curry-4-of-5-1024x1536.jpg",
+    "image_2": "https://maldivescook.com/wp-content/uploads/beef-curry.jpg",
+    "image_3": "https://myfoodstory.com/wp-content/uploads/2016/12/Easy-Mutton-Curry-1-1024x1536.jpg",
 
-    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
-    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
-    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
+    "cookingMethod_1": "This is the perfect weeknight curry — it's primarily comprised of ingredients you probably already have on hand: chicken, onions, garlic, pantry spices, heavy cream, and canned tomatoes. Not a spice lover? All good; while there are a lot of warm ground spices that season the dish, this curry isn't spicy at all",
+    "cookingMethod_2": "Combine coriander, cumin, turmeric, pepper, chili powder, garlic, ginger and lemon juice in a bowl to form a paste. Set aside.Add half the beef. Cook, stirring, for 2 to 3 minutes, or until browned. Transfer to a bowl. (This may have to be done in 2 batches) Reduce heat to medium.",
+    "cookingMethod_3": "I always thought making mutton curry is a long and laborious process that needs hours of prep and cooking time. But you shouldn't have to wait so much for good things in life! But this easy mutton curry recipe is different. What I love about this recipe is that it requires very little prep, uses simple, everyday",
 
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
     "ingredients_2": [
@@ -185,31 +185,31 @@
   },
 
   {
-    "id": "1",
-    "Chef_Picture": "",
-    "Chef_Name": "Mania Mia",
-    "Years_of_experience": "20",
-    "Numbers_of_recipes": "20",
-    "Likes": "1.5k",
+    "id": "6",
+    "Chef_Picture":"https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "Chef_Name": "Manik Miah",
+    "Years_of_experience": "19",
+    "Numbers_of_recipes": "32",
+    "Likes": "2.5k",
 
     "View_Recipes_Button": "View Recipes Details",
     "description": "Mania Mia, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.Asmat Ali, referred to around Gandhi Mahal as Baisab (“sibling” in Bangla), has been head gourmet specialist since 2008. Conceived in Sylhet, Bangladesh, he spent quite a bit of his life working in Qatar before going to the United States in 2001. He is also included in the list of top 10 chefs in Bangladesh.",
 
-    "rating_1": 1,
-    "rating_2": 2,
-    "rating_3": 3,
+    "rating_1": 4.5,
+    "rating_2": 4,
+    "rating_3": 4.5,
 
-    "recipe_1": "Kung Pao Chicken",
-    "recipe_2": "Hot and Sour Soup",
-    "recipe_3": "Sichuan Beef Noodle Soup",
+    "recipe_1": "Chingri Malai Curry",
+    "recipe_2": "Koi Mach",
+    "recipe_3": "Sorshe Ilish",
 
-    "image_1": "https://media.istockphoto.com/id/185220382/photo/cashew-chicken-stir-fry.jpg?s=612x612&w=is&k=20&c=QA77sNrQ6gIyH8r2GVf5tOUgQnQkOvfo04dHIkl6Wjc=",
-    "image_2": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
-    "image_3": "https://media.istockphoto.com/id/187107734/photo/hot-and-sour-soup.jpg?s=1024x1024&w=is&k=20&c=bci4upu1_TLVkquVskCHsm9TkTWTWpvOPT5QuwSjCds=",
+    "image_1": "http://spicyworld.in/recipeimages/chingri-malai-curry-add.jpg",
+    "image_2": "https://finallyfoodie.com/wp-content/uploads/2020/05/koi-tel-jhal-recipe-rotated-e1590596949661-600x620.jpg",
+    "image_3": "https://kitchenofdebjani.com/wp-content/uploads/2019/09/Ilish-Macher-Sorshe-bata-diye-Jhal.jpg",
 
-    "cookingMethod_1": "A s tir-fry dish made with diced chicken, peanuts, vegetables, and spicy Sichuan peppercorns. The chicken is marinated, then stir-fried in a wok with vegetables and spices to create a savory and spicy dish.",
-    "cookingMethod_2": "A Chinese soup made with a combination of hot and sour flavors, typically featuring ingredients such as bamboo shoots, tofu, mushrooms, vinegar, and chili oil. The soup is typically simmered on the stove to allow the flavors to meld together.",
-    "cookingMethod_3": "A spicy noodle soup that originated in the Sichuan province of China. It features beef, noodles, vegetables, and a spicy broth made with Sichuan peppercorns, chili oil, and other spices. The beef is typically slow-cooked to tenderize it and infuse it with flavor.",
+    "cookingMethod_1": "Chingri Macher Malai Curry is a traditional Bengali recipe rather delicacy, where Golda Chingri or Lobster is cooked in onion - tomato gravy and then addition of coconut milk makes the curry more rich and creamy, thus the name 'malai curry'. Though I made it with jumbo shrimps as we both are not fan of lobster. Taste of this Prawn malai curry came out delicious, neither too spicy nor too sweet, perfectly balanced. I served it with mishti pulao aka basonti pulao and the pair was heavenly. Do try this recipe and let me know how it turned out for you.",
+    "cookingMethod_2": "Koi is also called as Kau in Odia, and I was pleasantly surprised when I saw the live fishes in the Sunday market. I had woken up by 7 AM to ensure that I do not miss out on the prized catch. Arkadip guided me through the market which was a couple of kilometres away from where I stay.",
+    "cookingMethod_3": "I was planning to continue my weekend nap a bit more! However, I decided to reply to him. I asked, how about you cooking this time?The  pathetic man replied, how about me making the breakfast and coffee and you cook the over the top Ilish Macher Sorshe Jhal because nobody can beat you when it comes to Shorshe Ilish!",
 
     "ingredients_1": ["chicken", "peanuts", "vegetables", "soy sauce", "sugar"],
     "ingredients_2": [
