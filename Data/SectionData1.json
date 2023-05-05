@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "discount_Foot_1_discount": 60,
+    "discount_Foot_1_discount":60,
     "discount_Foot_1_Payment":"Bikas",
     "discount_Foot_1_Name": "Kacchi Biryani",
     "discount_Foot_Img": "https://www.chefspencil.com/wp-content/uploads/Panta-Ilish-960x720.jpg",
@@ -10,8 +10,8 @@
 
   {
     "id": 1,
-    "discount_Foot_1_discount": 60,
-    "discount_Foot_1_Payment":"nagad",
+    "discount_Foot_1_discount":60,
+    "discount_Foot_1_Payment":"Nagad",
     "discount_Foot_1_Name": "Vuna Khichuri/ Khichuri",
     "discount_Foot_Img": "https://www.chefspencil.com/wp-content/uploads/Khichuri-960x960.jpg",
     "discount_Foot_1_desciption": "  Khichuri is a dish made of rice and lentils (dal). Vuna Khichuri (roasted) is cooked with different ingredients and spices from normal Khichuri."
@@ -20,7 +20,7 @@
 
   {
     "id": 1,
-    "discount_Foot_1_discount": 60,
+    "discount_Foot_1_discount":60,
     "discount_Foot_1_Payment":"Rocket",
     "discount_Foot_1_Name": "Morog Polao",
     "discount_Foot_Img": "https://www.chefspencil.com/wp-content/uploads/Morog-Polao-1-960x540.jpg",
